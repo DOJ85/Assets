@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 5rem;
+  min-height: 100%;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 50px;
+  background-color: #3a3a3a;
+  text-align: center;
+  color: #a0a0a0;
+}
+
+.footer-copyright {
+  margin-top: 17px;
+}
+
+.caca {
+  font-size: 50px;
+}
+
+p {
+  width: 50%;
+}
