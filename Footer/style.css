@@ -12,12 +12,13 @@ html {
 body {
   position: relative;
   margin: 0;
-  padding-bottom: 5rem;
+  /* padding-bottom: 5rem; */
   min-height: 100%;
 }
 
-.footer {
+.footer-content {
   position: absolute;
+  z-index: 9000;
   right: 0;
   bottom: 0;
   left: 0;
@@ -31,10 +32,14 @@ body {
   margin-top: 17px;
 }
 
-.caca {
-  font-size: 50px;
+
+
+.lorem {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
 }
 
-p {
-  width: 50%;
+.footer-height {
+  height: 70px;
 }
