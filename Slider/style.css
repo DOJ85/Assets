@@ -47,7 +47,7 @@ body {
   0%{
     background-image: url('Images/image-1.jpg');
   }
-  20%{
+  15%{
     background-image: url('Images/image-1.jpg');
   }
 
@@ -55,7 +55,7 @@ body {
   20.01%{
     background-image: url('Images/image-2.jpg');
   }
-  40%{
+  35%{
     background-image: url('Images/image-2.jpg');
   }
 
@@ -63,7 +63,7 @@ body {
   40.01%{
     background-image: url('Images/image-3.jpg');
   }
-  60%{
+  55%{
     background-image: url('Images/image-3.jpg');
   }
 
@@ -71,15 +71,19 @@ body {
   60.01%{
     background-image: url('Images/image-4.jpg');
   }
-  80%{
+  75%{
     background-image: url('Images/image-4.jpg');
   }
 
   80.01%{
     background-image: url('Images/image-5.jpg');
   }
-  100%{
+  95%{
     background-image: url('Images/image-5.jpg');
+  }
+
+  100%{
+    background-image: url('Images/image-1.jpg');
   }
 
 
